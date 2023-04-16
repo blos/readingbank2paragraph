@@ -5,7 +5,7 @@ The project itself was about document analysis based on a documents' layout.
 
 ## How it works
 
-The ReadingBank dataset consists of boxes which are representing words.
+The [ReadingBank](https://github.com/doc-analysis/ReadingBank) dataset consists of boxes which are representing words.
 Those are clustered into lines or rows.
 Finally, those rows are clustered again into paragraphs using agglomerative clustering.
 
